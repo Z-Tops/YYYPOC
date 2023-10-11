@@ -6,3 +6,4 @@ http://36.152.44.97
 https://user.quickapp.cn/?packageName=onscreen.show&path=&shareUrl=&params=
 file:///Storage/emulated/0/Download/1
 file:///Storage/emulated/0/Download/1.txt
+http://117.72.36.54/1.html
